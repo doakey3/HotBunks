@@ -3,7 +3,7 @@ Hot Bunks
 =========
 .. image:: Textures/UI/Commands/HotBunk.png
 
-Automatically unassigns a bunk when a pawn exits the bed. Allows multiple pawns to share the same bed as long as their sleep schedules are different.
+Allows the player to mark a bed as a "Hot Bunk". Hot bunks are automatically unassigned when a pawn exits the bed. Allows multiple pawns to share the same bed as long as their sleep schedules are different.
 
 Usage
 =====
