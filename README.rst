@@ -1,7 +1,7 @@
 =========
 Hot Bunks
 =========
-.. image:: Textures/UI/Commands/HotBunk.png
+.. image:: About/preview.png
 
 A quality-of-life mod for Rimworld.
 
