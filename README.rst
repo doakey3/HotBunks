@@ -1,7 +1,7 @@
 =========
 Hot Bunks
 =========
-.. image:: About/preview.png
+.. image:: About/Preview.png
 
 A quality-of-life mod for Rimworld.
 

@@ -3,7 +3,7 @@
   <name>HotBunks</name>
   <author>doakey3</author>
   <packageId>doakey3.HotBunks</packageId>
-  <description>Leaves beds unassigned by default. First come. First serve</description>
+  <description>Leaves beds unassigned by default. First come. First serve.</description>
   <supportedVersions>
     <li>1.5</li>
   </supportedVersions>
